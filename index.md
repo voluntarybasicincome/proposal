@@ -3,12 +3,12 @@ layout: default
 title: Voluntary Basic Income proposal
 ---
 
-Voluntary Basic Income proposal
-===
-Apolitical, transparent, efficient
----
+# Voluntary Basic Income proposal
+## Apolitical, transparent, efficient
 
-Make suggestions to the proposal on gDrive: https://docs.google.com/document/d/1RpYI0qBbM3C7Xv7zu1ws-H1-Zz3EgHnnZFDIAcu5jZo
+Make suggestions to the proposal on gDrive: [https://docs.google.com/document/d/1RpYI0qBbM3C7Xv7zu1ws-H1-Zz3EgHnnZFDIAcu5jZo](https://docs.google.com/document/d/1RpYI0qBbM3C7Xv7zu1ws-H1-Zz3EgHnnZFDIAcu5jZo)
+
+The plan is to transfer the gDrive proposal to github.
 
 ## TL;DR
 - Membership-based voluntary basic income
